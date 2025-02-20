@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**Guimaraes131/Guimaraes131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+import Developer from "Guimaraes131";
 
-Here are some ideas to get you started:
+class AboutMe extends Developer {
+  name = "Guilherme";
+  area = "Back-end";
+  college = "FIAP";
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Skills extends Developer {
+  languages = ["Python", "Java"];
+  frameworks = ["SpringBoot"];
+}
+```
