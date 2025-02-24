@@ -10,6 +10,6 @@ class AboutMe extends Developer {
 
 class Skills extends Developer {
   languages = ["Python", "Java"];
-  frameworks = ["SpringBoot"];
+  frameworks = ["Spring"];
 }
 ```
