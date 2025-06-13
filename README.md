@@ -58,3 +58,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:guilhermegpereira26@hotmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guimaraes131)
 ###
+
+<div class="tenor-gif-embed" data-postid="5455480" data-share-method="host" data-aspect-ratio="1.0989" data-width="100%"><a href="https://tenor.com/view/matsuoka-shuzo-shuzo-nevergiveup-gif-5455480">Shuzo GIF</a>from <a href="https://tenor.com/search/matsuoka+shuzo-gifs">Matsuoka Shuzo GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
