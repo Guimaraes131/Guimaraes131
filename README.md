@@ -59,8 +59,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guimaraes131)
 ###
 
-<h2 align="left">Matsuoka Shuzo</h2>
-
 <p align="center">
   <img src="https://media1.tenor.com/m/Q-6bm0V5s4EAAAAC/matsuoka-shuzo-shuzo.gif" alt="Shuzo Never Give Up" width="300"/>
 </p>
