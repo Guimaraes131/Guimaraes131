@@ -60,4 +60,4 @@
 ###
 
 <h2 align="left">Shuzo Matsuoka</h2>
-![Shuzo Never Give Up](https://media1.tenor.com/m/Q-6bm0V5s4EAAAAC/matsuoka-shuzo-shuzo.gif)
+[![Shuzo Never Give Up](https://media1.tenor.com/m/Q-6bm0V5s4EAAAAC/matsuoka-shuzo-shuzo.gif)
