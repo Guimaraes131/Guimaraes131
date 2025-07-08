@@ -55,6 +55,5 @@
 ###
 
 <p align="center">
-  <img src="https://tenor.com/view/pop-cat-cat-meme-cat-hug-cat-kiss-gif-2662648958855456214" alt="Pop Cat" width="300"/>
-  <div class="tenor-gif-embed" data-postid="2662648958855456214" data-share-method="host" data-aspect-ratio="0.960699" data-width="100%"><a href="https://tenor.com/view/pop-cat-cat-meme-cat-hug-cat-kiss-gif-2662648958855456214">Pop Cat Sticker</a>from <a href="https://tenor.com/search/pop-stickers">Pop Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://media.tenor.com/ue2efvDNTu0AAAAC/pop-cat-cat-meme.gif" alt="Pop Cat" width="300"/>
 </p>
