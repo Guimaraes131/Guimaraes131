@@ -55,5 +55,5 @@
 ###
 
 <p align="center">
-  <img src="https://media.tenor.com/ue2efvDNTu0AAAAC/pop-cat-cat-meme.gif" alt="Pop Cat" width="300"/>
+  <img src="pop-cat.gif" alt="Pop Cat" width="300"/>
 </p>
