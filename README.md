@@ -55,5 +55,5 @@
 ###
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDU2YmZtMm1sdnd2OHc1a2JudDJicTk4MTI5M2lnc3Jtbmk2MTR5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" alt="Duck Gif" width="300"/>
+  <img src="https://tenor.com/dkQ7IfuEEJ0.gif" alt="Pop Cat" width="300"/>
 </p>
