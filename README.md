@@ -40,6 +40,7 @@
 ###
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Guimaraes131&theme=midnight-purple" width="45%" alt="Streak"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Guimaraes131&show_icons=true&disable_animations=false&theme=midnight-purple&locale=en&order=1&rank_icon=github" width="45%" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guimaraes131&locale=en&hide_title=false&layout=compact&langs_count=4&theme=midnight-purple&hide_border=false&order=2" width="45%" />
 </div>
