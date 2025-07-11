@@ -39,8 +39,8 @@
 
 ###
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Guimaraes1311&theme=transparent)](https://git.io/streak-stats)
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Guimaraes131&theme=transparent" />
   <img src="https://github-readme-stats.vercel.app/api?username=Guimaraes131&show_icons=true&disable_animations=false&theme=transparent&locale=en&order=1&rank_icon=github" width="45%" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guimaraes131&locale=en&hide_title=false&layout=compact&langs_count=4&theme=transparent&hide_border=false&order=2" width="45%" />
 </div>
