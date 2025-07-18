@@ -1,12 +1,10 @@
-<h2 align="left">Estudante de análise e desenvolvimento de sistemas - FIAP</h2>
+<h2 align="left">Computer Systems Analysis and Development student - FIAP</h2>
 
 ###
 
 <h2 align="left">Techs</h2>
 
 ###
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
